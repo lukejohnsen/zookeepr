@@ -126,6 +126,15 @@
     },
     {
       "id": "14"
+    },
+    {
+      "name": "tony",
+      "species": "trex",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "15"
     }
   ]
 }
